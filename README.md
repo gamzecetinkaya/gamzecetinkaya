@@ -4,7 +4,7 @@
 <img align="right" alt="GIF" src="https://media2.giphy.com/media/26BGIqWh2R1fi6JDa/giphy.gif?cid=ecf05e47gzetq8chx98qq44mpecr4dxwaqbgsf1sgoqfocng&rid=giphy.gif&ct=g" width="300" height="220" />
 
 - 🌱 I’m currently learning **Unity and C#**.
-- 📫 I graduated from Computer Programing and now I study Management Information Systems.
+- 📫 I graduated from Computer Programing and Management Information Systems.
 - ⚡ How to reach me **gamze.cetinkayaa97@gmail.com**
 
 ## 🖥 Technologies:
